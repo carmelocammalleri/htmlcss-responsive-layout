@@ -52,7 +52,6 @@ main {
 .column.white {
   background-color: white;
   border: 1px solid black; /* da togliere */
-  height: 500px; /* da togliere */
 }
 
 .color-planning {
