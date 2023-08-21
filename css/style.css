@@ -48,3 +48,9 @@ header {
   background-color: white;
   border: 1px solid black; /* da togliere */
 }
+
+.image-planning,
+.text-planning {
+  text-align: center;
+  margin: 20px 0;
+}
