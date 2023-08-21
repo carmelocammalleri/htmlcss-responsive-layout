@@ -3,3 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.flex {
+  display: flex;
+}
+
+.container {
+  max-width: 576px;
+  width: 90%;
+  margin: 0 auto;
+}
