@@ -114,5 +114,13 @@ footer{
     margin: 10px;
   }
 
-  
+  .benefit {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .column.small.white {
+    width: 49%;
+  }
+
 }
