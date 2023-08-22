@@ -89,21 +89,17 @@ main {
   border-radius: 30px 30px;
 }
 
-.column.small{
-  height: 300px;
-}
-
 .row {
   padding-top: 50px;
+  padding-inline: 40px;
 }
 
-.text {
-  padding: 40px;
+.text{
+  padding: 50px 0;
+}
+
+.start {
   text-align: start;
-}
-
-.center {
-  text-align: center;
 }
 
 .image {
@@ -118,12 +114,13 @@ main {
 
 .btn.apple {
   background-color: #0084FD;
-  padding: 15px 50px;
+  padding: 12px 80px;
   color: white;
 }
 
 .btn.apple span{
   font-weight: bold;
+  font-size: 1.1rem;
 }
 
 .title-demo {
