@@ -74,6 +74,7 @@ header {
 
 main {
   text-align: center;
+  margin-top: 150px;
 }
 
 .column {
@@ -171,7 +172,7 @@ footer{
   }
 }
 
-@media screen and (min-width:780px){
+@media screen and (min-width:790px){
   .menu {
     display: block;
   }
