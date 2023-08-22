@@ -102,8 +102,18 @@ main {
   text-align: start;
 }
 
+.center {
+  text-align: center;
+}
+
 .image {
   width: 100%;
+}
+
+.column.small i {
+  font-size: 6rem;
+  color: #0084FD;
+  margin-bottom: 20px;
 }
 
 .btn.apple {
