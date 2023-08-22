@@ -63,6 +63,11 @@ header {
   color: black;
 }
 
+.burger i{
+  font-size: 2rem;
+  color: white;
+}
+
 /* main---------------------------------------*/
 
 main {
