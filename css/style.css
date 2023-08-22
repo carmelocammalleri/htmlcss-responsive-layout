@@ -82,6 +82,10 @@ main {
   margin: 0 auto;
 }
 
+.get-started {
+  background-color: aqua;
+}
+
 /* footer */
 footer{
   background-color: slategrey;
@@ -150,5 +154,9 @@ footer{
 
   .plan .column.white {
     width: 50%;
+  }
+
+  .column.small.white {
+    width: 32%;
   }
 }
