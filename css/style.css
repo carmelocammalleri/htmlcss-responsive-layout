@@ -28,6 +28,7 @@ header {
   background-color: #0084FD;
   position: fixed;
   top: 0;
+  z-index: 999;
 }
 
 .head {
@@ -88,7 +89,9 @@ main {
 }
 
 .row {
-  padding: 50px 0;
+  padding-top: 50px;
+  position: relative;
+  overflow: hidden;
 }
 
 .text {
@@ -98,6 +101,11 @@ main {
 .image {
   width: 100%;
 }
+
+.btn.apple {
+  background-color: #0084FD;
+}
+
 .column.white {
   background-color: white;
   border: 1px solid black; /* da togliere */
