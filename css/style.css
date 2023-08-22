@@ -22,6 +22,10 @@
   height: 300px;
 }
 
+img{
+    display: block;
+}
+
 /* header---------------------------------------*/
 header {
   width: 100%;
@@ -45,6 +49,7 @@ header {
   padding: 10px 15px;
   background-color: white;
   border-radius: 30px 30px;
+  cursor: pointer;
 }
 
 .btn a {
@@ -90,12 +95,11 @@ main {
 
 .row {
   padding-top: 50px;
-  position: relative;
-  overflow: hidden;
 }
 
 .text {
-  padding: 30px;
+  padding: 40px;
+  text-align: start;
 }
 
 .image {
@@ -104,6 +108,16 @@ main {
 
 .btn.apple {
   background-color: #0084FD;
+  padding: 15px 50px;
+  color: white;
+}
+
+.btn.apple span{
+  font-weight: bold;
+}
+
+.title-demo {
+  color: #0084FD;
 }
 
 .column.white {
