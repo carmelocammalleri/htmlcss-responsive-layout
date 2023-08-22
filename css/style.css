@@ -24,8 +24,8 @@
 /* header---------------------------------------*/
 header {
   width: 100%;
-  height: 100px;   /* da togliere */
-  background-color: aquamarine;
+  height: 100px;
+  background-color: #0084FD;
 }
 
 .head {
