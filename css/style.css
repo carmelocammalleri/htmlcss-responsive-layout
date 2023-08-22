@@ -137,8 +137,12 @@ main {
 
 .color-planning,
 .color-benefit {
-  background-color: aquamarine;
+  background-color: #9792E4;
   padding: 50px 0;
+}
+
+.image-planning img{
+  width: 90%;
 }
 
 .column.violet {
