@@ -78,7 +78,7 @@ main {
 }
 
 .column {
-  background-color: coral;
+  background-color: #B5DDFF;
   margin-block: 20px ;
   border-radius: 30px 30px;
 }
@@ -91,6 +91,13 @@ main {
   padding: 50px 0;
 }
 
+.text {
+  padding: 30px;
+}
+
+.image {
+  width: 100%;
+}
 .column.white {
   background-color: white;
   border: 1px solid black; /* da togliere */
