@@ -141,7 +141,7 @@ main {
 }
 
 .image-planning img{
-  width: 90%;
+    max-width: 300px;
 }
 
 .title-planning{
@@ -218,6 +218,7 @@ footer{
     margin: 30px;
     justify-content: space-around;
   }
+
 }
 
 @media screen and (min-width:790px){
